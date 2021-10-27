@@ -1,4 +1,4 @@
-{/*import React from "react";
+import React from "react";
 import Counsellor from "../asset/for counsellors.svg";
 import Learner from "../asset/for learners.svg";
 import module "*.svg";
@@ -54,4 +54,3 @@ export default function DetailComponent() {
     </div>
   );
 }
-*/}
