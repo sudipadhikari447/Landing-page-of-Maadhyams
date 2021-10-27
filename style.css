@@ -32,7 +32,7 @@ input{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('./images/background.png');
+    background-image: url('./images/background.png'); //place image named background.png in the given directory.
 }
 nav{
 	display: flex;
