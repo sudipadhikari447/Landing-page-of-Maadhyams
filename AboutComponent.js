@@ -18,7 +18,7 @@ export default function AboutComponent() {
           <h5 className='font'>Experience</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
@@ -30,7 +30,7 @@ export default function AboutComponent() {
           <h5 className='font'>Ability</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
@@ -42,7 +42,7 @@ export default function AboutComponent() {
           <h5 className='font'>Access</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
@@ -54,7 +54,7 @@ export default function AboutComponent() {
           <h5 className='font'>Reward</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
@@ -66,7 +66,7 @@ export default function AboutComponent() {
           <h5 className='font'>Reward</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
@@ -78,7 +78,7 @@ export default function AboutComponent() {
           <h5 className='font'>Reward</h5>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6>
