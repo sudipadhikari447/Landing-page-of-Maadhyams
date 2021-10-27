@@ -1,4 +1,4 @@
-{/*import React from "react";
+import React from "react";
 import Aone from "../asset/a-1.png";
 import Atwo from "../asset/a-2.png";
 import Athree from "../asset/a-3.png";
@@ -59,4 +59,3 @@ export default function IconComponent() {
       </div>
     </div>
   );
-}*/}
