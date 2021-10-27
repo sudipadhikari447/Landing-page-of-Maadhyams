@@ -24,15 +24,17 @@ export default class HeaderComponent extends Component {
           </h1>
           <p className='para'>
             There are many variations of passages of Lorem Ipsum available,
-            <br /> but the majority have suffered alteration in some form, by
+            but the majority have suffered alteration in some form, by
             injected humour.
           </p>
           <h6 className='font'>
             <b>Join Us Today</b>
           </h6>
           <p className='para'>
-            There are many variations of passages of Lorem Ipsum available.
-          </p>
+           There are many variations of passages of Lorem Ipsum available,
+           but the majority have suffered alteration in some form, by
+           injected humour.
+           </p>
           <a
             href='#get'
             className='btn btn-header white-text text-darken-4 teal accent-3 modal-trigger'
