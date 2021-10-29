@@ -1,4 +1,4 @@
-{/*import React from "react";
+import React from "react";
 import Left from "../asset/left-img.png";
 import Right from "../asset/right-img.png";
 
@@ -68,4 +68,3 @@ export default function FooterComponent() {
     </footer>
   );
 }
-*/}
